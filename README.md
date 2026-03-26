@@ -4,3 +4,4 @@
 - Separe seu código em views usando Blade
 - Aprenda a lidar com front-end usando Laravel Mix
 - Gerencie o banco de dados com Eloquent ORM
+Alura 2026.
